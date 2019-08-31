@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/junaidkhan/ti/tivaware_c_series_2_1_4_178/inc",
+                "/Users/junaidkhan/ti/tivaware_c_series_2_1_4_178/utils",
+                "/Users/junaidkhan/ti/tivaware_c_series_2_1_4_178/driverlib"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
